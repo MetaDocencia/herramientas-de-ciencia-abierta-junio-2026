@@ -64,14 +64,10 @@ En el primer encuentro se definirá qué es la Ciencia Abierta y algunas de sus 
 
 |  | Tema (click para ver la Hoja de Ruta con contenidos y cronograma por módulo) |
 | ---:  | :----------- |
-| 2/6 de 14 - 16:30 hs (UTC-3) | [*Fundamentos de Ciencia Abierta*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026
-/FundamentosE1.html) | 
-| 9/6 de 14 - 16:30 hs (UTC-3) | [*Datos Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026
-/DatosAbiertosE2.html) | 
-| 16/6 de 14 - 16:30 hs (UTC-3) | [*Código Abierto*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026
-/CodigoAbiertoE3.html) |
-| 23/6 de 14 - 16:30 hs (UTC-3) | [*Resultados Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026
-/ResultadosAbiertosE4.html) |
+| 2/6 de 14 - 16:30 hs (UTC-3) | [*Fundamentos de Ciencia Abierta*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026/FundamentosE1.html) | 
+| 9/6 de 14 - 16:30 hs (UTC-3) | [*Datos Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026/DatosAbiertosE2.html) | 
+| 16/6 de 14 - 16:30 hs (UTC-3) | [*Código Abierto*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026/CodigoAbiertoE3.html) |
+| 23/6 de 14 - 16:30 hs (UTC-3) | [*Resultados Abiertos*](https://metadocencia.github.io/herramientas-de-ciencia-abierta-junio-2026/ResultadosAbiertosE4.html) |
 
 Para aumentar la accesibilidad de esta formación, grabaremos cada encuentro y compartiremos su grabación al día siguiente. 
 
