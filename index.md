@@ -26,8 +26,6 @@ Quienes completen esta formación podrán:
 - Acceder a recursos abiertos y referencias en español para seguir aplicando lo trabajado después de cada encuentro.
 - Conocer herramientas y casos de Ciencia Abierta en acción.
 
-
-
 ## ¿Para quién?
 
 MetaDocencia cree en la importancia de convocar a perfiles de disciplinas diversas para enriquecer las conversaciones y promover la Ciencia Abierta generando espacios de intercambio transversales y abiertos que promuevan colaboraciones entre diversas áreas de conocimiento.
@@ -39,15 +37,11 @@ Esperamos que puedan sumarse personas hispanohablantes relacionadas a la ciencia
 - Tengan alguna experiencia (en un rango amplio entre poca y muchísima) trabajando en iniciativas abiertas, por ejemplo, en publicaciones, datos, investigación, bibliotecas o repositorios, entre otras.
 - Enseñen o difundan la ciencia y la técnica, ya sea desde un rol docente o de comunicación.
 
-
-
 ## ¿Qué no incluye esta formación?
 
 - Desarrollo en profundidad y práctica extensiva de los principios de Ciencia Abierta.
 - Teoría de la ciencia o la epistemología.
 - Uso de Ciencia Abierta enfocado en disciplinas específicas.
-
-
 
 ## Duración
 
